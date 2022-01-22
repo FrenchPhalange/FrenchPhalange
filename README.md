@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @FrenchPhalange
-- 👀 I’m interested in XXX
-- 🌱 I’m currently learning XXX
-- 💞️ I’m looking to collaborate on XXX
-- 📫 How to reach me XXX
-
-<!---
-FrenchPhalange/FrenchPhalange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![bloggif_61ec541140ab9](https://user-images.githubusercontent.com/98228867/150651897-7d083e77-9b4e-46eb-ac4f-949cf0524fe0.gif)
