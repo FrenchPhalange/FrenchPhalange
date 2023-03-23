@@ -3,8 +3,8 @@
 </a>
 
 # Hi 👋,:
-- 📚 I'm currently learning NuxtJS
-- ❤️ LottieFiles
+- 📚 I'm currently learning NuxtJS, Node, Svelte
+- ❤️ Damien et Alex les gros PD
 - 🎹 Classic music enjoyer
 
 <br />
