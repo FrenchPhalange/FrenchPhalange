@@ -4,8 +4,5 @@
 
 <br />
 
-# 💻 Tech Stack
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenchphalange)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frenchphalange)](https://github.com/anuraghazra/github-readme-stats)
