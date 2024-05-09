@@ -1,8 +1,17 @@
-<a href="https://app.daily.dev/Heidegger">
-  <img align="right" src="https://api.daily.dev/devcards/e1bdf3c68b8641a294da5e1619aac47f.png?r=a98" width="300" alt="sudo's Dev Card"/>
-</a>
+# Welcome to My GitHub Profile! 👋
 
-<br />
+## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenchphalange)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frenchphalange)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats Card -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frenchphalange&show_icons=true&theme=radical)
+
+<!-- Top Languages Card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenchphalange&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=frenchphalange)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+</p>
