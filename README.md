@@ -15,3 +15,13 @@
 <p align="center">
 <a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 </p>
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/FrenchPhalange?pet-id=656220590941266511"
+    width="600"
+    height="120"
+  />
+</a>
+  
